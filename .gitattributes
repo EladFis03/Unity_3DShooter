@@ -1,0 +1,8 @@
+*.assets.resS filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Win/Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/* filter=lfs diff=lfs merge=lfs -text
+Unity_FPS_with_EXE/The[[:space:]]robotic[[:space:]]lab_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/e2/e2ffffe1a2657667b3b54ee0a66a3ff9 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/9e/9e7d4cca8319a09b8642babf1cdbaf0e filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/bb/bbf9dd18ec3c422a15fa3ea38f843b7f filter=lfs diff=lfs merge=lfs -text
